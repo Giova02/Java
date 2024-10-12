@@ -16,7 +16,7 @@ public class L4_4 {
 
         it.univr.L3.Date thisYear = new it.univr.L3.Date( // giorno di questo anno con costruttore 2
                 random.nextInt(1, 31),
-                random.nextInt(1, 11)
+                random.nextInt(1, 12)
         );
 
         it.univr.L3.Date xmas = new Date(); // natale 2024 con costruttore 3
